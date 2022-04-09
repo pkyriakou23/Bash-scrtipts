@@ -1,2 +1,2 @@
-# assignment1
-ΠΑΝΑΓΙΩΤΗΣ ΚΥΡΙΑΚΟΥ 
+# Bash-Scripts
+Readme coming soon...
